@@ -28,5 +28,13 @@ I am currently seeking new challenges that allow me to grow as both a person and
 
 ## Tech Stack 💻
 
-<img src="{[Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />  <img src="{[MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)}" />   | 	<img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" /> |<img src="{[NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)}" />  |<img src="{[Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)}" />  |<img src="{[Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white}" />   |
-<img src="{>[ Visual Studio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)}" / | <img src="{[Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)}" /> |<img src="[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white){}" />  |<img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" /> 
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat&logo=pandas&logoColor=blue)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=blue)
+![SQL](https://img.shields.io/badge/-SQL-red?style=flat&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=red)
+![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat&logo=power-bi&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-orange?style=flat&logo=google-colab&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-purple?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-green?style=flat&logo=seaborn&logoColor=white)
+
