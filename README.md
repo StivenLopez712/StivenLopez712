@@ -1,6 +1,7 @@
 # ¡Bienvenidos / Welcome ! 👋
 ES:
 ¡Bienvenidos a mi perfil de GitHub! Soy Stiven, aficionado de la tecnología, la electrónica y los datos.
+
 ## Acerca de mí 👀
 Desde siempre he sentido una atracción por indagar en el funcionamiento y el propósito detrás de nuestro entorno. Esta fascinación me condujo a embarcarme en la carrera de ingeniería electrónica, donde, entre diversas disciplinas, tuve mi primer acercamiento al universo del aprendizaje automático, el aprendizaje profundo y la inteligencia artificial. 🖥
 
@@ -13,7 +14,7 @@ EN:
 
 Welcome to my GitHub profile! I'm Stiven, a technology, electronics, and data enthusiast.
 
-##About Me 👀
+## About Me 👀
 I've always been drawn to exploring the workings and purposes behind our environment. This fascination led me to pursue a degree in electronic engineering, where, among various disciplines, I had my first exposure to the realms of machine learning, deep learning, and artificial intelligence. 🖥
 
 Recently, my experience at Henry not only enriched my knowledge but also fully immersed me in the field of data science and analysis. The use of tools like Python, SQL, and Power BI has provided me with the ability to extract valuable insights from data and translate them into analyses that support and underpin decision-making, whether short or long term. 💡
