@@ -1,67 +1,30 @@
-# Stiven López
+# ¡Bienvenidos / Welcome ! 👋
+ES:
+¡Bienvenidos a mi perfil de GitHub! Soy Stiven, aficionado de la tecnología, la electrónica y los datos.
+## Acerca de mí 👀
+Desde siempre he sentido una atracción por indagar en el funcionamiento y el propósito detrás de nuestro entorno. Esta fascinación me condujo a embarcarme en la carrera de ingeniería electrónica, donde, entre diversas disciplinas, tuve mi primer acercamiento al universo del aprendizaje automático, el aprendizaje profundo y la inteligencia artificial. 🖥
 
-## Jr Data Scientist | Colombia, Nariño
+Recientemente, mi experiencia en Henry no solo enriqueció mis conocimientos, sino que también me introdujo de lleno en el ámbito de la ciencia y análisis de datos. La utilización de herramientas como Python, SQL y Power BI me brindaron la capacidad de extraer información valiosa de los datos y convertirla en análisis que respaldan y fundamentan la toma de decisiones, ya sea a corto o largo plazo. 💡
 
-[LinkedIn](https://www.linkedin.com/in/stivenlm) | [GitHub](https://github.com/StivenLopez712)
+Actualmente me encuentro en la búsqueda de nuevos desafíos que me permitan crecer como persona y como profesional, expandiendo mis habilidades interpersonales y mis conocimientos.
 
----
 
-## About Me
+EN:
 
-Data Scientist with a background in Electronic Engineering and a passion for technology and data. Committed to continuous learning and teamwork, I aim to leverage my skills and expertise in data analysis and recommendation systems to contribute to innovative projects.
+Welcome to my GitHub profile! I'm Stiven, a technology, electronics, and data enthusiast.
 
----
+##About Me 👀
+I've always been drawn to exploring the workings and purposes behind our environment. This fascination led me to pursue a degree in electronic engineering, where, among various disciplines, I had my first exposure to the realms of machine learning, deep learning, and artificial intelligence. 🖥
 
-## Projects
+Recently, my experience at Henry not only enriched my knowledge but also fully immersed me in the field of data science and analysis. The use of tools like Python, SQL, and Power BI has provided me with the ability to extract valuable insights from data and translate them into analyses that support and underpin decision-making, whether short or long term. 💡
 
-### Machine Learning Operations (MLOPS) - Steam
-- Date: November 2023
-- Description: Developed a recommendation system for Steam using item-item collaborative filtering.
-- Technologies: Python, Pandas, Scikit-learn, FastAPI.
+I am currently seeking new challenges that allow me to grow as both a person and a professional, expanding my interpersonal skills and my knowledge base.
 
-### Traffic Accidents Analysis - CABA
-- Date: November 2023 - December 2023
-- Description: Analyzed traffic accident data in Buenos Aires, focusing on identifying trends and patterns.
-- Technologies: Python, Pandas, Power BI.
 
-### Restaurant Recommendation System - Google Maps & Yelp
-- Date: December 2023 - January 2024
-- Description: Created a recommendation system for restaurants based on sentiment analysis of Google Maps and Yelp reviews.
-- Technologies: Big Query, Google Colab, Google Cloud Storage.
+## Socials 🌐
 
----
+[LinkedIn](https://www.linkedin.com/in/stivenlm)
 
-## Education
+## Tech Stack 💻
 
-- **Data Science Bootcamp**
-  - HENRY, August 2023 - January 2024
-
-- **Bachelor of Electronic Engineering**
-  - University of Nariño, February 2018 - September 2023
-
-- **Systems Technician**
-  - National Learning Service (SENA), February 2016 - November 2017
-
----
-
-## Skills
-
-- Python (Pandas, Numpy, Scikit-learn)
-- Machine Learning
-- Data Analysis
-- SQL
-- Git
-- Power BI
-- Google Cloud Platform
-- MATLAB
-
----
-
-## Languages
-
-- English: B2 (Intermediate)
-- Spanish: Native
-
----
-
-Feel free to reach out to me via [email](mailto:Jstivenlopezm@gmail.com) for collaborations or opportunities.
+Python | C++ | MySQL  | Pandas | NumPy | Arduino | Google Cloud Platform | Matplotlib | Visual Studio | Google Colab | Power BI | Seaborn | Matlab | Git
